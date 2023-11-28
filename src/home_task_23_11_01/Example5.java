@@ -1,4 +1,4 @@
-package home_task_01_11_23;
+package home_task_23_11_01;
 
 /*for (int i = 0; i < n; ++i) {
   for (int j = 0; j < n/3; ++j) {

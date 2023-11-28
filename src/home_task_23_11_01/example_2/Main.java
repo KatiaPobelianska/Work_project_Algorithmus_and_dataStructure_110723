@@ -1,4 +1,4 @@
-package home_task_01_11_23.example_2;
+package home_task_23_11_01.example_2;
 /*for (int i = 0; i < n-1; ++i) {
   for (int j = 0; j < n-i; ++j) {
     a[i][j]++;

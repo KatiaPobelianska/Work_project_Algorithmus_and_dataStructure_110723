@@ -1,4 +1,4 @@
-package home_task_01_11_23.example_2;
+package home_task_23_11_01.example_2;
 
 import java.util.Random;
 

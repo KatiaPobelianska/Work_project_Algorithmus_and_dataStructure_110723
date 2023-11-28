@@ -10,7 +10,9 @@ public class SumCalculator {
     public static int sum(int n, int m) {
         int result = 0;
         for (int i = m; i <= n; i += m) {
-            result += i;
+            if(n/m == 0){
+                result += i;
+            }
         }
         return result;
     }

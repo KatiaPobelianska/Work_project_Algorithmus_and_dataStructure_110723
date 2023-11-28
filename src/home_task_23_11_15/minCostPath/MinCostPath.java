@@ -66,4 +66,5 @@ public class MinCostPath {
         int result = minCost(costs);
         System.out.println("minCost(costs)= " + result);
     }
+
 }
